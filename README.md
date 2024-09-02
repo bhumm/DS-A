@@ -1,9 +1,13 @@
-# Linked_List
-Practice developing data structures for DSA. Doubly linked list using python.
+# Data Structures & Algorithms
+Practice developing data structures for DSA. 
+Primary resources and courses that inspired this repo are:
+https://frontendmasters.com/courses/algorithms/
+https://www.youtube.com/watch?v=8hly31xKli0&t=14621s
 
 --------------------
+### Doubly linked list using python.
 
-Includes node class and linkedList class. Linked list methods include:
+Depends on node class. Linked list methods include:
 Insertion:
 prepend_node - add new head node
 append_node = add new tail node
@@ -18,3 +22,13 @@ QoL:
 display - provides visual of linked list
 length - gives length of linked list
 traverse - allows for traversal and print out of nodes and their associated values and indices
+
+--------------------
+### Queue using python.
+
+Depends on node class. Queue methods include:
+
+enqueue - add new tail node to the queue
+dequeue - remove head node and return value
+peek - observe head node's value
+display - human readable representation of the queue
