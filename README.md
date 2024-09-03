@@ -32,3 +32,13 @@ enqueue - add new tail node to the queue
 dequeue - remove head node and return value
 peek - observe head node's value
 display - human readable representation of the queue
+
+--------------------
+### Stack using python.
+
+Depends on node class. Stack methods include:
+
+push - add new head node
+pop - remove head node and return value
+peek - observe head node's value
+display - human readable representation of the queue
