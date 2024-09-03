@@ -7,8 +7,8 @@ https://www.youtube.com/watch?v=8hly31xKli0&t=14621s
 --------------------
 ### Doubly linked list using python.
 
-Depends on node class. Linked list methods include:\n
-Insertion:\n
+Depends on node class. Linked list methods include:
+Insertion:
 prepend_node - add new head node
 append_node = add new tail node
 insert_at_index - insert node at indicated index
