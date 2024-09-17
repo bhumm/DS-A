@@ -43,3 +43,26 @@ Depends on node class. Stack methods include:
 - `pop` - remove head node and return value
 - `peek` - observe head node's value
 - `display` - human-readable representation of the queue
+
+--------------------
+
+### Sort using python
+Sort methods include:
+
+- `bubble_sort` - performs bubble sort
+- `selection_sort` - performs selection sort
+- `quick_sort` - performs recursive quick sort
+- `partition` - helper function for recursive quicksort
+- `qs` - another helper function for recursive quicksort
+- `simple_quicksort` - performs simplified quick sort
+- `s_qs` - another helper function for a simplified quicksort
+- `merge_sort` - performs merge sort
+- `ms` - helper function for merge sort
+
+--------------------
+
+### Search using python
+Depends on `simple_quicksort` function in Sorter class. Sort methods include:
+
+- `linear_search` - performs linear search
+- `binary_search` - performs binary search
